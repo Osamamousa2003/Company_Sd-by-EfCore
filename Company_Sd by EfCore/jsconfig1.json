@@ -1,0 +1,3 @@
+{
+  "constr": "Server = DESKTOP-HJ8FB72\\SQLEXPRESS; Database =MyDatabase ; Integrated Security = SSPI; TrustServerCertificate = True;MultipleActiveResultSets=True"
+}

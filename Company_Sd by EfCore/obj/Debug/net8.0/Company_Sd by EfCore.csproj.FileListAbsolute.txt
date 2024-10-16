@@ -1,0 +1,4 @@
+C:\Users\osama\Desktop\Company_Sd by EfCore\Company_Sd by EfCore\obj\Debug\net8.0\Company_Sd by EfCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\Desktop\Company_Sd by EfCore\Company_Sd by EfCore\obj\Debug\net8.0\Company_Sd by EfCore.AssemblyInfoInputs.cache
+C:\Users\osama\Desktop\Company_Sd by EfCore\Company_Sd by EfCore\obj\Debug\net8.0\Company_Sd by EfCore.AssemblyInfo.cs
+C:\Users\osama\Desktop\Company_Sd by EfCore\Company_Sd by EfCore\obj\Debug\net8.0\Company_Sd by EfCore.csproj.CoreCompileInputs.cache
